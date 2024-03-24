@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nehakp8842
 - 👀 I’m interested in Web development and cyber security 
-- 🌱 I’m currently learning programming languages and web development
+- 🌱 I’m currently learning java and .net programming languages and web development
 - 💞️ I’m looking to collaborate on open-source projects and innovative ideas
 - 📫 How to reach me through email at (nehagp2020@gmail.com)
 - 😄 Pronouns: She/Her.
