@@ -12,7 +12,6 @@ Current Projects
 Data Science Learning
 
 - Python for Data Analysis  
-- Machine Learning Fundamentals  
 - Real-world Business Case Studies  
 - Power BI & Excel for Visualisation
 - MYSQL
